@@ -3,5 +3,5 @@ you can setup automate shut down and send mesage on shutting down before hand, g
 
 1. download breoadcast.bat
 2. copy or move breoadcast.bat to Dual Universe Server\scripts
-3. type broadcast reason with out qoute
+3. type broadcast reason with out qoute with in same folder
 4. or setup task schedules to send message before shut down.
