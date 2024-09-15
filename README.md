@@ -1,5 +1,6 @@
 you can send broadcast to everyone on your server without your backoffice website
 you can setup automate shut down and send mesage on shutting down before hand, give your user enough time to log off
+you can setup other reason to send message to all users 
 
 1. download breoadcast.bat
 2. copy or move breoadcast.bat or .sh to Dual Universe Server\scripts
