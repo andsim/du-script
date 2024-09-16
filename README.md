@@ -8,3 +8,5 @@ you can setup other reason to send message to all users
 4. or setup task schedules to send message before shut down.
 
 notice on .sh file i have not test it yet
+
+all .bat and .sh excluding broadcast is require to have broadcast file to be present 
