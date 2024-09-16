@@ -3,7 +3,7 @@ you can setup automate shut down and send mesage on shutting down before hand, g
 you can setup other reason to send message to all users 
 
 1. download breoadcast.bat
-2. copy or move breoadcast.bat or .sh to Dual Universe Server\scripts
+2. copy or move either .bat or .sh to Dual Universe Server\scripts
 3. type broadcast reason with out qoute with in same folder
 4. or setup task schedules to send message before shut down.
 
