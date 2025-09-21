@@ -11,6 +11,6 @@ notice on .sh file i have not test it yet
 
 all .bat and .sh is require to have broadcast file to be present 
 
-docker-checker.nat is only for startup to see docker is runnbing before du scripts can be run on startup
+docker-checker.bat is only for startup to see docker is runnbing before du scripts can be run on startup
 
 read the wiki page to set up auto start on boot
